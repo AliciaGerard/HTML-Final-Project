@@ -1,0 +1,166 @@
+
+#banner{
+	    width:85%;
+		float:right;
+		height:100%;
+       }
+#logo{
+	  width:15%;
+	  float:left;
+	  height:100%;
+	  display:block;
+     }
+.SideNav {
+          height:1000px;
+          width: 15%;
+          position: fixed;
+		  background-color:lightgreen;
+          overflow-x: hidden;
+          padding-top: 30px;
+         }
+.Navbutton{
+		   border:5px outset tomato;
+		   padding:10px;
+		   display:block;
+		   background-color:#66c2ff;
+		   font-family: Arial, Helvetica, sans-serif;
+		   border-radius: 25px;
+          }
+a.Navbutton:hover{
+				  color:red;
+				  border:5px outset #000066;
+                 }
+#BackBlock{
+			width:15%;
+			height:1100px;
+			z-index:-1;
+			display:block;
+			padding:1px;
+			background-color:lightgreen;
+			float:left;
+          }
+
+header{
+	   display: block;
+	   height:220px;
+	   width:100%;
+      }
+body{
+	 background-color:#ffffcc;
+    }
+.PageHeader{
+			color:blue;
+			margin-left:15%;
+			text-align:center;
+			font-size:30px;
+           }
+.IndexPara{
+		   margin-left:16%;
+		   font-size:18px;
+		   text-align:center;
+          }
+.HR{
+		 width:50%;
+		 margin-right:15%;
+		 height:5px;
+		 background-color:#66ff33;
+		 border:2px solid mediumseagreen;
+        }
+
+.column {
+         float: left;
+         width: 30%;
+         padding: 10px;
+        }  
+.row:after {
+             content: "";
+             display: table;
+             clear: both;
+           }
+#ImageMap{
+		  display: block;
+          margin-left: auto;
+          margin-right: 15%;
+          width: 70%;
+		  border:5px outset lightblue;
+         }
+.WellnessPara{
+			  margin-left:16%;
+			  text-align:left;
+			  font-size:18px;
+			  display:block;
+			  padding:10px;
+             }
+.ImgRight{
+		  float:right;
+		  padding:10px;
+         }
+.ImgLeft{
+		 float:left;
+		 padding:10px;
+        }
+.ExercisePara{
+			  margin-left:16%;
+			  text-align:left;
+			  font-size:18px;
+			  display:block;
+			  padding:20px;
+             }
+#heartRate{
+            width: 24%;
+			float:right;
+			display:block;
+			background-color: #ff9999;
+			border:2px solid black;
+			margin-left:3%;
+			padding:10px;
+          }
+#tableHeader{
+	         border: 3px solid #ff0000;
+			 padding:8px;
+			 text-align:center;
+			 background-color: #ff6666;
+            }	
+.Dark{
+	  border:2px solid #000099;
+	  padding:8px;
+	  text-align:center;
+	  background-color:#b3b3b3;
+     }
+.Light{
+	   border:2px solid #000099;
+	   padding:8px;
+	   text-align:center;
+	   background-color:#f2f2f2;
+      } 	
+
+#currentPage{
+			 border:5px outset blue;
+			 padding:10px;
+		     display:block;
+		     background-color:#66c2ff;
+			 font-family: Arial, Helvetica, sans-serif;
+			 font-weight:bold;
+			 border-radius: 25px;
+            }
+.NutritionPara{
+			  margin-left:16%;
+			  text-align:left;
+			  font-size:18px;
+			  display:block;
+			  padding:20px;
+             }
+.widget{
+	    font-size:30px;
+		text-align:center;
+		padding:5px;
+       }
+#video{
+		height:500px;
+		width:1000px;
+		padding:5px;
+      }
+aside{
+	  float:right;
+	  font-size:12px;
+     }
