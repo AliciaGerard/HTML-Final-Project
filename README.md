@@ -7,8 +7,8 @@ The goal of the project was to create a web page that had several key elements w
     -The woman doing yoga with the star icons on the front page
     - currently does not work, some error I am looking for when I uploaded it to github
     
- -There had to be at least three image links that linked to outside websites
-    -For this I used the three images on the Defining Wellness page 
+ - There had to be at least three image links that linked to outside websites
+    - For this I used the three images on the Defining Wellness page 
  - All text needed to be displayed in a cohesive and responsive to the size of the window
  - Must have a table with multiple colors and multiple cell ranges
      - this is on the exercise page
