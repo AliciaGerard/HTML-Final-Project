@@ -4,7 +4,7 @@ The goal of the project was to create a web page that had several key elements w
  - We had to create a website with at least 3 pages branching from the home page.
  - The page had to be able to have a small or large browser window without losing too much fidelity 
  -There had to be an image map linking to something, I chose to have it link to the other pages. 
-    -The woman doing yoga with the star icons on the front page
+    - The woman doing yoga with the star icons on the front page
     - currently does not work, some error I am looking for when I uploaded it to github
     
  - There had to be at least three image links that linked to outside websites
