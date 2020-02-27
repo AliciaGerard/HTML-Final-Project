@@ -1,5 +1,5 @@
 # HTML-Final-Project
-This is the final project for HTML5 
+This is the final project for HTML5 Fall 2018
 The goal of the project was to create a web page that had several key elements we went over in class.
  - We had to create a website with at least 3 pages branching from the home page.
  - The page had to be able to have a small or large browser window without losing too much fidelity 
