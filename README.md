@@ -5,7 +5,7 @@ The goal of the project was to create a web page that had several key elements w
  - The page had to be able to have a small or large browser window without losing too much fidelity 
  - There had to be an image map linking to something, I chose to have it link to the other pages. 
     - The woman doing yoga with the star icons on the front page
-    - currently does not work, some error I am looking for when I uploaded it to github
+    - currently does not work, not sure why because the code is right
     
  - There had to be at least three image links that linked to outside websites
     - For this I used the three images on the Defining Wellness page 
